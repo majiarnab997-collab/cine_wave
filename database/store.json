@@ -1,0 +1,346 @@
+{
+  "movies": [
+    {
+      "id": "mov-1",
+      "title": "Neon Odyssey 2099",
+      "description": "In a rain-slicked cyberpunk Tokyo spanning multi-tiered megastructures, an ex-memory hacker uncovers a sinister artificial intelligence syndicate altering human consciousness.",
+      "type": "movie",
+      "posterUrl": "https://images.unsplash.com/photo-1578632767115-351597cf2477?auto=format&fit=crop&w=600&q=80",
+      "backdropUrl": "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?auto=format&fit=crop&w=1920&q=85",
+      "releaseYear": 2026,
+      "rating": 9.3,
+      "voteCount": 14820,
+      "maturityRating": "R",
+      "isOriginal": true,
+      "isFeatured": true,
+      "isTrending": true,
+      "isPopular": true,
+      "isKidsSafe": false,
+      "genres": ["sci-fi", "action", "thriller"],
+      "runtime": 148,
+      "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
+      "audioQuality": "Dolby Atmos 7.1",
+      "quality": "4K Ultra HD",
+      "matchPercentage": 98,
+      "tags": ["Cyberpunk", "Mind-Bending", "Visually Stunning", "Neo-Noir"],
+      "cast": [
+        { "id": "c1", "name": "Elena Rostova", "character": "Dr. Sarah Vance", "avatarUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=300&q=80" },
+        { "id": "c2", "name": "Marcus Chen", "character": "Commander Jack Vance", "avatarUrl": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=300&q=80" }
+      ],
+      "directors": [{ "id": "d1", "name": "Denis Vane", "avatarUrl": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?auto=format&fit=crop&w=300&q=80" }],
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "mov-2",
+      "title": "Solaris Convergence",
+      "description": "An elite deep-space expedition reaches the outer edge of a dying star cluster, discovering an alien beacon that bends the laws of time and reality.",
+      "type": "movie",
+      "posterUrl": "https://images.unsplash.com/photo-1506703719100-a0f3a48c0f86?auto=format&fit=crop&w=600&q=80",
+      "backdropUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1920&q=85",
+      "releaseYear": 2025,
+      "rating": 8.9,
+      "voteCount": 11200,
+      "maturityRating": "PG-13",
+      "isOriginal": true,
+      "isFeatured": true,
+      "isTrending": true,
+      "isPopular": true,
+      "isKidsSafe": false,
+      "genres": ["sci-fi", "drama"],
+      "runtime": 135,
+      "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4",
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4",
+      "audioQuality": "Dolby 5.1",
+      "quality": "4K Ultra HD",
+      "matchPercentage": 94,
+      "tags": ["Cosmic", "Intense", "Philosophical"],
+      "cast": [
+        { "id": "c3", "name": "Aria Sterling", "character": "Dr. Mae Lind", "avatarUrl": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&w=300&q=80" }
+      ],
+      "directors": [{ "id": "d2", "name": "Maya Lin", "avatarUrl": "https://images.unsplash.com/photo-1580489944761-15a19d654956?auto=format&fit=crop&w=300&q=80" }],
+      "createdAt": "2026-01-05T00:00:00Z",
+      "updatedAt": "2026-01-05T00:00:00Z"
+    },
+    {
+      "id": "mov-3",
+      "title": "Shadow Protocol: Zero Hour",
+      "description": "When a stealth cyber weapon triggers a blackout across global satellite defenses, a disavowed black-ops operative has four hours to prevent a thermonuclear escalation.",
+      "type": "movie",
+      "posterUrl": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?auto=format&fit=crop&w=600&q=80",
+      "backdropUrl": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=1920&q=85",
+      "releaseYear": 2026,
+      "rating": 8.8,
+      "voteCount": 9400,
+      "maturityRating": "R",
+      "isOriginal": false,
+      "isFeatured": true,
+      "isTrending": true,
+      "isPopular": true,
+      "isKidsSafe": false,
+      "genres": ["action", "thriller"],
+      "runtime": 128,
+      "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+      "audioQuality": "Dolby Atmos",
+      "quality": "4K Ultra HD",
+      "matchPercentage": 96,
+      "tags": ["Espionage", "Adrenaline", "Fast-Paced"],
+      "cast": [
+        { "id": "c4", "name": "Gabriel Stone", "character": "Cole Becker", "avatarUrl": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=300&q=80" }
+      ],
+      "directors": [{ "id": "d3", "name": "Lucas Sterling", "avatarUrl": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?auto=format&fit=crop&w=300&q=80" }],
+      "createdAt": "2026-01-10T00:00:00Z",
+      "updatedAt": "2026-01-10T00:00:00Z"
+    },
+    {
+      "id": "mov-4",
+      "title": "The Enchanted Meadow",
+      "description": "A courageous young rabbit and an adventurous flying squirrel embark on a magical quest through mystical enchanted forests to restore the sacred light crystal.",
+      "type": "movie",
+      "posterUrl": "https://images.unsplash.com/photo-1579783902614-a3fb3927b675?auto=format&fit=crop&w=600&q=80",
+      "backdropUrl": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=1920&q=85",
+      "releaseYear": 2025,
+      "rating": 9.1,
+      "voteCount": 8200,
+      "maturityRating": "G",
+      "isOriginal": true,
+      "isFeatured": true,
+      "isTrending": false,
+      "isPopular": true,
+      "isKidsSafe": true,
+      "genres": ["family", "comedy", "fantasy"],
+      "runtime": 92,
+      "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+      "audioQuality": "Dolby 5.1",
+      "quality": "4K Ultra HD",
+      "matchPercentage": 99,
+      "tags": ["Heartwarming", "Animation", "Family Fun"],
+      "cast": [
+        { "id": "c5", "name": "Lily Zhang", "character": "Pip the Bunny (Voice)", "avatarUrl": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=300&q=80" }
+      ],
+      "directors": [{ "id": "d4", "name": "Sophie Moreau", "avatarUrl": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=300&q=80" }],
+      "createdAt": "2026-01-12T00:00:00Z",
+      "updatedAt": "2026-01-12T00:00:00Z"
+    }
+  ],
+  "shows": [
+    {
+      "id": "tv-1",
+      "title": "Quantum Horizon",
+      "description": "When particle physicists at a subterranean supercollider accidentally fracture the quantum multiverse, three estranged investigators must navigate colliding timelines.",
+      "type": "tv",
+      "posterUrl": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=600&q=80",
+      "backdropUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1920&q=85",
+      "releaseYear": 2026,
+      "rating": 9.4,
+      "voteCount": 16500,
+      "maturityRating": "TV-MA",
+      "isOriginal": true,
+      "isFeatured": true,
+      "isTrending": true,
+      "isPopular": true,
+      "isKidsSafe": false,
+      "genres": ["sci-fi", "drama", "thriller"],
+      "seasonsCount": 2,
+      "totalEpisodes": 8,
+      "audioQuality": "Dolby Atmos",
+      "quality": "4K Ultra HD",
+      "matchPercentage": 97,
+      "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
+      "tags": ["Mind-Bending", "Multiverse", "Complex", "Addictive"],
+      "cast": [
+        { "id": "c1", "name": "Elena Rostova", "character": "Dr. Clara Thorne", "avatarUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=300&q=80" },
+        { "id": "c4", "name": "Gabriel Stone", "character": "Detective Miller", "avatarUrl": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=300&q=80" }
+      ],
+      "directors": [{ "id": "d1", "name": "Denis Vane", "avatarUrl": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?auto=format&fit=crop&w=300&q=80" }],
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z",
+      "seasons": [
+        {
+          "id": "s1",
+          "seasonNumber": 1,
+          "title": "Season 1: Fracture Point",
+          "episodes": [
+            {
+              "id": "tv1-s1e1",
+              "seasonNumber": 1,
+              "episodeNumber": 1,
+              "title": "Anomaly in Sector 7",
+              "description": "The collider test registers an unprecedented resonance, pulling Dr. Thorne into an alternate version of Zurich.",
+              "runtime": 58,
+              "thumbnailUrl": "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?auto=format&fit=crop&w=600&q=80",
+              "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
+              "introStart": 10,
+              "introEnd": 45
+            },
+            {
+              "id": "tv1-s1e2",
+              "seasonNumber": 1,
+              "episodeNumber": 2,
+              "title": "The Doppler Mirage",
+              "description": "Echoes of future catastrophes manifest in the present as the team scrambles to stabilize the core breach.",
+              "runtime": 52,
+              "thumbnailUrl": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=600&q=80",
+              "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4",
+              "introStart": 10,
+              "introEnd": 40
+            },
+            {
+              "id": "tv1-s1e3",
+              "seasonNumber": 1,
+              "episodeNumber": 3,
+              "title": "Entangled Threads",
+              "description": "A shadowy military contingent arrives to seize the facility before the dimensional tear expands beyond control.",
+              "runtime": 55,
+              "thumbnailUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=600&q=80",
+              "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+              "introStart": 12,
+              "introEnd": 42
+            },
+            {
+              "id": "tv1-s1e4",
+              "seasonNumber": 1,
+              "episodeNumber": 4,
+              "title": "Singularity Point (Season Finale)",
+              "description": "Clara must make an impossible sacrifice to prevent both timelines from collapsing simultaneously.",
+              "runtime": 64,
+              "thumbnailUrl": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?auto=format&fit=crop&w=600&q=80",
+              "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
+              "introStart": 10,
+              "introEnd": 45
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "id": "usr-1",
+      "name": "Alex Vance",
+      "email": "alex@cinewave.tv",
+      "role": "user",
+      "subscriptionPlanId": "plan-premium",
+      "subscriptionStatus": "active",
+      "billingCycle": "monthly",
+      "nextBillingDate": "2026-09-28",
+      "createdAt": "2026-01-15T00:00:00Z",
+      "profiles": [
+        {
+          "id": "prof-alex",
+          "name": "Alex",
+          "avatarUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=400&q=80",
+          "isKids": false,
+          "language": "en",
+          "maturityLevel": "R",
+          "autoplayNext": true,
+          "autoplayPreviews": true
+        },
+        {
+          "id": "prof-sam",
+          "name": "Sam",
+          "avatarUrl": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=400&q=80",
+          "isKids": false,
+          "language": "en",
+          "maturityLevel": "TV-14",
+          "autoplayNext": true,
+          "autoplayPreviews": false
+        },
+        {
+          "id": "prof-kids",
+          "name": "Kids Club",
+          "avatarUrl": "https://images.unsplash.com/photo-1566492031773-4f4e44671857?auto=format&fit=crop&w=400&q=80",
+          "isKids": true,
+          "language": "en",
+          "maturityLevel": "PG",
+          "autoplayNext": false,
+          "autoplayPreviews": false
+        }
+      ]
+    },
+    {
+      "id": "usr-admin",
+      "name": "System Admin",
+      "email": "admin@cinewave.tv",
+      "role": "admin",
+      "subscriptionPlanId": "plan-premium",
+      "subscriptionStatus": "active",
+      "billingCycle": "annual",
+      "nextBillingDate": "2027-01-01",
+      "createdAt": "2025-12-01T00:00:00Z",
+      "profiles": [
+        {
+          "id": "prof-admin",
+          "name": "Admin Master",
+          "avatarUrl": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=400&q=80",
+          "isKids": false,
+          "language": "en",
+          "maturityLevel": "NC-17",
+          "autoplayNext": true,
+          "autoplayPreviews": true
+        }
+      ]
+    }
+  ],
+  "plans": [
+    {
+      "id": "plan-basic",
+      "name": "Basic (with Ads)",
+      "priceMonthly": 6.99,
+      "priceAnnual": 69.99,
+      "resolution": "1080p Full HD",
+      "videoQuality": "Good",
+      "supportedDevicesCount": 1,
+      "features": ["1080p Full HD video", "Watch on 1 supported screen", "Unlimited access to entire catalog", "Limited commercial breaks"]
+    },
+    {
+      "id": "plan-standard",
+      "name": "Standard (Ad-Free)",
+      "priceMonthly": 12.99,
+      "priceAnnual": 129.99,
+      "resolution": "1080p Full HD",
+      "videoQuality": "Great",
+      "supportedDevicesCount": 2,
+      "features": ["1080p Full HD video", "Watch on 2 supported screens simultaneously", "100% Ad-free streaming", "Offline downloads on 2 devices"],
+      "isPopular": true
+    },
+    {
+      "id": "plan-premium",
+      "name": "Premium Ultra 4K",
+      "priceMonthly": 18.99,
+      "priceAnnual": 189.99,
+      "resolution": "4K Ultra HD + HDR",
+      "videoQuality": "Best",
+      "supportedDevicesCount": 4,
+      "features": ["4K (Ultra HD) + HDR10 + Dolby Vision", "Spatial Audio & Dolby Atmos 7.1", "Watch on 4 supported screens simultaneously", "Offline downloads on 6 devices", "VIP early screening access"]
+    }
+  ],
+  "genres": [
+    { "id": "sci-fi", "name": "Sci-Fi & Cyberpunk", "slug": "sci-fi" },
+    { "id": "action", "name": "Action & Adventure", "slug": "action" },
+    { "id": "thriller", "name": "Thriller & Suspense", "slug": "thriller" },
+    { "id": "drama", "name": "Drama", "slug": "drama" },
+    { "id": "comedy", "name": "Comedy", "slug": "comedy" },
+    { "id": "family", "name": "Family & Animation", "slug": "family" },
+    { "id": "documentary", "name": "Documentaries", "slug": "documentary" },
+    { "id": "fantasy", "name": "Fantasy & Supernatural", "slug": "fantasy" },
+    { "id": "crime", "name": "Crime & Mystery", "slug": "crime" },
+    { "id": "horror", "name": "Horror", "slug": "horror" },
+    { "id": "romance", "name": "Romance", "slug": "romance" },
+    { "id": "anime", "name": "Anime", "slug": "anime" }
+  ],
+  "continueWatching": [],
+  "watchHistory": [],
+  "watchlist": [],
+  "activityLogs": [
+    {
+      "id": "log-init",
+      "event": "database_ready",
+      "timestamp": "2026-08-27T09:30:00.000Z",
+      "details": { "status": "Ready", "provider": "CineWave JSON Engine" }
+    }
+  ]
+}

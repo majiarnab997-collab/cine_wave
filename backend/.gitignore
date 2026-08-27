@@ -1,0 +1,15 @@
+# Dependencies
+node_modules/
+
+# Production Builds
+dist/
+
+# Environment Variables & Secrets
+.env
+.env.*
+*.env
+*.env.local
+
+# Logs
+logs
+*.log

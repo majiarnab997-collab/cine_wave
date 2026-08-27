@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <defs>
+    <linearGradient id="cw-gradient-main" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FF2E55" />
+      <stop offset="50%" stop-color="#FF6B35" />
+      <stop offset="100%" stop-color="#FFA800" />
+    </linearGradient>
+    <linearGradient id="cw-gradient-glow" x1="0%" y1="100%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FF2E55" stop-opacity="0.8" />
+      <stop offset="100%" stop-color="#FFA800" stop-opacity="0.3" />
+    </linearGradient>
+    <filter id="glow-filter" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+  </defs>
+
+  <!-- Dark App Icon Container Background -->
+  <rect width="64" height="64" rx="18" fill="#0E0E17" />
+  <rect width="62" height="62" x="1" y="1" rx="17" stroke="rgba(255,255,255,0.12)" stroke-width="1.5" />
+
+  <!-- Background Ambient Glow -->
+  <circle cx="32" cy="32" r="16" fill="url(#cw-gradient-glow)" filter="url(#glow-filter)" opacity="0.35" />
+
+  <!-- CineWave Stylized "CW" Cinematic Wave & Playform -->
+  <g transform="translate(6, 6) scale(0.8125)">
+    <!-- Primary Flowing Frequency Wave -->
+    <path
+      d="M8 38C14 20 22 14 32 14C42 14 50 20 56 38"
+      stroke="url(#cw-gradient-main)"
+      stroke-width="5"
+      stroke-linecap="round"
+      stroke-linejoin="round"
+    />
+    <!-- Counter Harmonic Wave -->
+    <path
+      d="M12 44C18 32 25 28 32 28C39 28 46 32 52 44"
+      stroke="url(#cw-gradient-main)"
+      stroke-width="4"
+      stroke-linecap="round"
+      opacity="0.75"
+    />
+    <!-- Center Play Chevron / Pulse Prism -->
+    <polygon
+      points="29,27 39,33 29,39"
+      fill="url(#cw-gradient-main)"
+    />
+  </g>
+</svg>
