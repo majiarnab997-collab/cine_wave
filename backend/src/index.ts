@@ -1,5 +1,7 @@
+import 'dotenv/config';
 import express from 'express';
 import cors from 'cors';
+import { isSupabaseConfigured } from './supabase';
 
 // Routers
 import authRoutes from './routes/authRoutes';
@@ -33,6 +35,7 @@ app.get('/api/health', (_req, res) => {
   res.json({
     status: 'online',
     service: 'CineWave Backend Engine',
+    database: isSupabaseConfigured() ? 'Supabase PostgreSQL (Cloud)' : 'Local JSON Store (database/store.json)',
     timestamp: new Date().toISOString(),
     version: '1.0.0'
   });
